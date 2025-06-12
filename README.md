@@ -20,7 +20,7 @@ pip install alumathgroup25==0.1.0
 
 ## Example usage
 '''
-from alumathgroup25 import multiply_matrices
+from alumathgroup25.src.main import multiply_matrices
 
 mat1 = [[1, 2],
         [3, 4]]
