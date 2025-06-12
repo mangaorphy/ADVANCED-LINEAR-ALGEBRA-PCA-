@@ -16,11 +16,13 @@ A simple Python library for matrix multiplication created by Group 25.
 You can install the package using pip:
 
 ```bash
-pip install alumathgroup25==0.1.0
+pip3 install alumathgroup-twenty-five or pip install alumathgroup-twenty-five
+
+
 
 ## Example usage
 '''
-from alumathgroup25.src.main import multiply_matrices
+from alumathgroup25.main import multiply_matrices
 
 mat1 = [[1, 2],
         [3, 4]]
