@@ -36,5 +36,6 @@ print(result) # Output: [[19, 22], [43, 50]]
 mat1 = [[1, 2], [3, 4]]
 mat2 = [[5, 6, 7], [8, 9, 10]]
 result = multiply_matrices(mat1, mat2)
-# Output:Sorry, group 25 does not allow multiplication of non-list objects: Inputs must be lists
+# Output:⚠️ Warning: Mathias is confused. Reine says no. Orpheus is disappointed. Can't multiply these matrices. ⚠️
+
 '''
